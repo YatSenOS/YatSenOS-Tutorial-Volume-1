@@ -5,9 +5,7 @@
 <center>
     <p align="left">
     <br>
-    项目名称：逸仙OS ( YatSenOS )<br>
-    指导老师：陈鹏飞 ( Pengfei Chen, chenpf7@mail.sysu.edu.cn )<br>
-    参赛队员：张钧宇 ( Nelson Cheung, zhangjunyu@nelson-cheung.cn )<br>
+    项目名称：逸仙OS简明教程 ( YatSenOS Volume First )<br>
     所属机构：中山大学操作系统实验课程组	
     </p>
 </center>
