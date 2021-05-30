@@ -1,0 +1,13 @@
+global student_function
+global your_function
+
+extern a1
+extern a2
+extern my_random
+extern your_string
+extern if_flag
+extern while_flag
+extern print_a_char
+
+student_function:
+    pushad
