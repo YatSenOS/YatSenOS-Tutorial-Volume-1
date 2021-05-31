@@ -15,6 +15,7 @@
 + 本项目已经成功用于2021年中山大学春季操作系统实验课程，课程的地址是https://gitee.com/nelsoncheung/sysu-2021-spring-operating-system/tree/main/
 + 项目的论文是"[一个支点撬动操作系统大山.pdf](%E4%B8%80%E4%B8%AA%E6%94%AF%E7%82%B9%E6%92%AC%E5%8A%A8%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F%E5%A4%A7%E5%B1%B1.pdf)"，务必首先阅读论文来了解我们的项目设计。
 + 从`lab1`到`lab9`构成了我们自主设计的实验教材，分为第零章到第八章，共九章。可以通过阅读`lab1`到`lab9`的`README.md`来进一步了解我们的实验设计。
++ 本项目使用“木兰宽松许可证，第二版”
 
 # 项目结构
 
