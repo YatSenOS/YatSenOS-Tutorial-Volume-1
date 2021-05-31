@@ -1,14 +1,21 @@
+在`build`文件夹下执行下面的命令。
+
 # 编译
 ```shell
-cd build
-make complie
-make build
-```
-或者可以合起来
-```shell
-cd build
-make complie && make build
+make
 ```
 
 # 运行
-使用`run/bochsrc.bxrc`来运行。
+```shell
+make run
+```
+
+# debug
+```shell
+make debug
+```
+
+# 清除中间文件
+```shell
+make clean
+```
